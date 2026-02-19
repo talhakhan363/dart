@@ -1,0 +1,9 @@
+	*) abstract, interface, inheritance, polymorphism, 
+	encapsulation = differences
+	*) can we implement abstract class? 
+
+mixin class:
+	*) no object, no constructor, can't extend
+	*) main purpose of mixin? we can create class for same purpose?
+	
+-----------THESE WERE THE INTIAL DOUBTS CAME IN MY MIND STUDYING THESE----------------------------
